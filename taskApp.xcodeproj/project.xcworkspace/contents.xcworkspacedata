@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:taskApp.xcodeproj">
+      location = "self:/Users/takuya/Desktop/taskapp/taskApp.xcodeproj">
    </FileRef>
 </Workspace>
